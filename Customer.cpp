@@ -2,7 +2,7 @@
  * Customer.cpp
  *
  *  Created on: Mar 7, 2018
- *      Author: Julien
+ *      Author: Julien & Felix
  */
 
 #include "Customer.h"          // Include's header file of class 'Customer'
