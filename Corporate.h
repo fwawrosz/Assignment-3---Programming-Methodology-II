@@ -2,7 +2,7 @@
  * Corporate.h
  *
  *  Created on: Mar 2, 2018
- *      Author: Julien
+ *      Author: Julien & Felix
  */
 
 #ifndef CORPORATE_H_
