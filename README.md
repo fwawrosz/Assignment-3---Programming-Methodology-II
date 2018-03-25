@@ -50,8 +50,11 @@ Using your system, the COEN244Car company should be able to do the following tas
 
 Question 1 (80 marks)
   A. Implement the class or classes that represent the car information.
+  
   B. Implement the class or classes that represent the company’s customers.
+  
   C. Implement the class CarRentalManagement that supports the functions (a) to (l)
+  
 Notes: Provide all the necessary data members, constructors, copy constructors, destructors,
 and member functions.
 
