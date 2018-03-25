@@ -2,7 +2,7 @@
  * Corporate.cpp
  *
  *  Created on: Mar 7, 2018
- *      Author: Julien
+ *      Author: Julien & Felix
  */
 
 #include "Corporate.h"            // Include's header file of class 'Corporate'
