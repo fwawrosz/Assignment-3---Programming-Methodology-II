@@ -2,7 +2,7 @@
  * Regular.cpp
  *
  *  Created on: Mar 7, 2018
- *      Author: Julien
+ *      Author: Julien & Felix
  */
 
 #include "Regular.h"                   // Include's header file of class 'Regular'
