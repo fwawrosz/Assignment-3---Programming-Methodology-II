@@ -22,6 +22,7 @@ rent standard cars for a maximum period of 20 days. Corporate customers and VIPs
 all types of cars. However, corporate customers can rent a car for a maximum period of 35
 days, whereas VIPs can rent a car for a maximum period of 45 days.
 Using your system, the COEN244Car company should be able to do the following tasks:
+
 a) Add a new car to the inventory
 b) Remove an existing car from the inventory
 c) Register new customers
