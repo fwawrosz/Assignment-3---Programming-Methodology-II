@@ -2,7 +2,7 @@
  * VIP.h
  *
  *  Created on: Mar 2, 2018
- *      Author: Julien
+ *      Author: Julien & Felix
  */
 
 #ifndef VIP_H_
