@@ -2,7 +2,7 @@
  * Car.cpp
  *
  *  Created on: Mar 7, 2018
- *      Author: Julien
+ *      Author: Julien & Felix
  */
 
 #include "Car.h"                          // Include's header file of class 'Car'
