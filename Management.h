@@ -2,7 +2,7 @@
  * Management.h
  *
  *  Created on: Mar 2, 2018
- *      Author: Julien
+ *      Author: Julien & Felix
  */
 
 #ifndef MANAGEMENT_H_
