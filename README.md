@@ -48,7 +48,10 @@ Using your system, the COEN244Car company should be able to do the following tas
   l) Determine the types of cars rented by a customer of a given company.
 
 
+
+
 Question 1 (80 marks)
+
   A. Implement the class or classes that represent the car information.
   
   B. Implement the class or classes that represent the company’s customers.
