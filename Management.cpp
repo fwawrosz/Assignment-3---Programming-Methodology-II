@@ -2,7 +2,7 @@
  * Management.cpp
  *
  *  Created on: Mar 7, 2018
- *      Author: Julien
+ *      Author: Julien & Felix
  */
 
 #include <iostream>      // Preprocessor directive to include input/output stream header file <iostream>.
